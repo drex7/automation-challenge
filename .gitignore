@@ -1,0 +1,9 @@
+node_modules/
+.vscode/
+dist/
+cypress.env.json
+cypress/screenshots/**
+cypress/downloads/**
+.pnp.cjs
+.pnp.loader.mjs
+.yarn/

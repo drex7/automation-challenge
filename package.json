@@ -1,0 +1,7 @@
+{
+  "name": "automation-challenge",
+  "packageManager": "yarn@4.9.2",
+  "devDependencies": {
+    "cypress": "^14.5.3"
+  }
+}
